@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 417895746072187312}
   - component: {fileID: 5209505119166688841}
+  - component: {fileID: 7418359851655496143}
   m_Layer: 0
   m_Name: musicbox 1
   m_TagString: Untagged
@@ -90,3 +91,22 @@ SkinnedMeshRenderer:
     m_Center: {x: 0.000000014901161, y: 0.22442508, z: 0.01970096}
     m_Extent: {x: 0.27180922, y: 0.22178334, z: 0.094776556}
   m_DirtyAABB: 0
+--- !u!95 &7418359851655496143
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046938870462532362}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6335a5c114e618c4d981f1381f8b31ec, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
